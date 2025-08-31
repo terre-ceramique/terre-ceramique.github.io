@@ -1,10 +1,10 @@
 <img width="100%" alt="banner_very_low" src="https://github.com/user-attachments/assets/690fb625-f022-4dd4-a599-c3aec5cf7e1b" />
 
-- [L'association](#-lassociation)
-- [Actualités](#-actualités)
+- [L'association](#lassociation)
+- [Actualités](#actualités-)
 - [L'expo-vente annuelle](#lexpo-vente-annuelle)
 - [Adhésion et créneaux horaires](#adhésion-et-créneaux-horaires)
-- [Contact](#-contact)
+- [Contact](#contact-)
 
 ---
 
@@ -24,7 +24,7 @@ Outre l'accès aux créneaux de pratique, et en contrepartie d'une adhésion mod
 
 ---
 
-## 📅 Actualités
+## Actualités 📅
 
 - **du 1er au 7 septembre** : exposition-vente annuelle à la chapelle du Cabellou
 - **6 septembre** : l'association sera présente aux Forums des Association de Concarneau et de Trégunc
@@ -55,7 +55,7 @@ En septembre, un créneau pour l'année est attribué à chaque membre. 5 places
 
 ---
 
-## ✉️ Contact
+## Contact ✉️
 
 `contact AROBASE terre-ceramique POINT fr`
 
