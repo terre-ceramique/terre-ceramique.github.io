@@ -22,6 +22,8 @@ Une exposition-vente anuelle est organisée par les membres de l'association, pe
 
 ## Les créneaux
 
+Voici la liste des créneaux disponibles :
+
 - Lundi matin 9h-13
 - Lundi après-midi 13h-17h
 - Lundi soir 17h-21h
@@ -30,6 +32,8 @@ Une exposition-vente anuelle est organisée par les membres de l'association, pe
 - Jeudi matin 9h-13
 - Jeudi après-midi 13h-17h
 - Samedi après-midi 13h-17h
+
+5 places sont disponibles par créneau, se renseigner auprès de l'association pour connaître les disponibilités.
 
 ## Contact
 
