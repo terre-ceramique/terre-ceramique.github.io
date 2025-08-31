@@ -8,7 +8,7 @@
 
 ---
 
-## 🏳️ L'association
+## L'association
 
 L'association a pour objet de promouvoir le **travail de l’argile** sous toutes ses formes, de **permettre l’expression artistique**, des enfants et des adultes, dans ce domaine et de **développer les échanges de compétences** entre les différents membres de l’association. 
 
