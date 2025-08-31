@@ -6,9 +6,9 @@
 - [Adhésion et créneaux horaires](#-adhésion-et-créneaux-horaires)
 - [Contact](#-contact)
 
-## 🏳️ L'association
-
 ---
+
+## 🏳️ L'association
 
 L'association a pour objet de promouvoir le **travail de l’argile** sous toutes ses formes, de **permettre l’expression artistique**, des enfants et des adultes, dans ce domaine et de **développer les échanges de compétences** entre les différents membres de l’association. 
 
@@ -22,15 +22,21 @@ Outre l'accès aux créneaux de pratique, et en contrepartie d'une adhésion mod
 - aide sur des chantiers ponctuels d'aménagement du lieu
 - soutien aux bénévoles qui organisent des évènements, des cuissons collectives
 
+---
+
 ## 📅 Actualités
 
 - **du 1er au 7 septembre** : exposition-vente annuelle à la chapelle du Cabellou
 - **6 septembre** : l'association sera présente aux Forums des Association de Concarneau et de Trégunc
 - **22 septembre** : reprise des ateliers
 
+---
+
 ## L'expo-vente annuelle
 
 Une exposition-vente anuelle est organisée par les membres de l'association, permettant de financer une partie des dépenses de l'association. **Cette année, l'exposition a lieu du lundi 1er septembre au dimanche 7 septembre à la chapelle du Cabellou à Concarneau.**
+
+---
 
 ## Adhésion et créneaux horaires
 
@@ -46,6 +52,8 @@ Voici la liste des créneaux disponibles :
 - Samedi après-midi 13h-17h
 
 En septembre, un créneau pour l'année est attribué à chaque membre. 5 places sont disponibles par créneau, se renseigner auprès de l'association pour connaître les disponibilités.
+
+---
 
 ## ✉️ Contact
 
