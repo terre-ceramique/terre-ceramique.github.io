@@ -20,17 +20,17 @@
 - aide sur des chantiers ponctuels d'aménagement du lieu
 - soutien aux bénévoles qui organisent des évènements, des cuissons collectives
 
-## Actualités
+## 📅 Actualités
 
 - **du 1er au 7 septembre** : exposition-vente annuelle à la chapelle du Cabellou
 - **6 septembre** : l'association sera présente aux Forums des Association de Concarneau et de Trégunc
 - **22 septembre** : reprise des ateliers
 
-## L'expo-vente annuelle
+## 🖼️ L'expo-vente annuelle
 
 Une exposition-vente anuelle est organisée par les membres de l'association, permettant de financer une partie des dépenses de l'association. **Cette année, l'exposition a lieu du lundi 1er septembre au dimanche 7 septembre à la chapelle du Cabellou à Concarneau.**
 
-## Adhésion et créneaux horaires
+## 💲 Adhésion et créneaux horaires
 
 Voici la liste des créneaux disponibles :
 
@@ -45,7 +45,7 @@ Voici la liste des créneaux disponibles :
 
 En septembre, un créneau pour l'année est attribué à chaque membre. 5 places sont disponibles par créneau, se renseigner auprès de l'association pour connaître les disponibilités.
 
-## Contact
+## ✉️ Contact
 
 `contact AROBASE terre-ceramique POINT fr`
 
