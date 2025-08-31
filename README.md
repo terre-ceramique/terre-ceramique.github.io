@@ -55,7 +55,7 @@ Voici la liste des créneaux disponibles :
 - Lundi soir 17h-21h
 - Mardi matin 9h-13
 - Mardi après-midi 13h-17h
-- Jeudi matin 9h-13
+- Jeudi matin 9h-13h
 - Jeudi après-midi 13h-17h
 - Samedi après-midi 13h-17h
 
