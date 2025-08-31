@@ -37,4 +37,6 @@ Voici la liste des créneaux disponibles :
 
 ## Contact
 
-Pour tout renseignement, inscriptions, merci d'écrire par email à `contact AROBASE terre-cerramique POINT fr`.
+Pour tout renseignement, inscriptions, merci d'écrire par email à :
+
+`contact AROBASE terre-ceramique POINT fr`
