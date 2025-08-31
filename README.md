@@ -1,12 +1,12 @@
 <img width="100%" alt="banner_very_low" src="https://github.com/user-attachments/assets/690fb625-f022-4dd4-a599-c3aec5cf7e1b" />
 
-- [L'association](#lassociation)
-- [Actualités](#actualités)
-- [L'expo-vente annuelle](#lexpo-vente-annuelle)
-- [Adhésion et créneaux horaires](#adhésion-et-créneaux-horaires)
-- [Contact](#contact)
+- [L'association](#-lassociation)
+- [Actualités](#-actualités)
+- [L'expo-vente annuelle](#-lexpo-vente-annuelle)
+- [Adhésion et créneaux horaires](#-adhésion-et-créneaux-horaires)
+- [Contact](#-contact)
 
-## L'association
+## 🏳️ L'association
 
 ⚱️ L'association a pour objet de promouvoir le **travail de l’argile** sous toutes ses formes, de **permettre l’expression artistique**, des enfants et des adultes, dans ce domaine et de **développer les échanges de compétences** entre les différents membres de l’association. 
 
@@ -30,7 +30,7 @@
 
 Une exposition-vente anuelle est organisée par les membres de l'association, permettant de financer une partie des dépenses de l'association. **Cette année, l'exposition a lieu du lundi 1er septembre au dimanche 7 septembre à la chapelle du Cabellou à Concarneau.**
 
-## 💲 Adhésion et créneaux horaires
+## 💶 Adhésion et créneaux horaires
 
 Voici la liste des créneaux disponibles :
 
