@@ -6,6 +6,8 @@
 - [Adhésion et créneaux horaires](#adhésion-et-créneaux-horaires)
 - [Contact](#contact-)
 
+
+
 ---
 
 ## L'association
@@ -55,7 +57,7 @@ En septembre, un créneau pour l'année est attribué à chaque membre. 5 places
 
 ---
 
-## Contact ✉️
+## Contact ✉
 
 `contact AROBASE terre-ceramique POINT fr`
 
