@@ -41,10 +41,16 @@ Voici la liste des créneaux disponibles :
 - Jeudi après-midi 13h-17h
 - Samedi après-midi 13h-17h
 
-5 places sont disponibles par créneau, se renseigner auprès de l'association pour connaître les disponibilités.
+En septembre, un créneau pour l'année est attribué à chaque membre. 5 places sont disponibles par créneau, se renseigner auprès de l'association pour connaître les disponibilités.
 
 ## Contact
 
 `contact AROBASE terre-ceramique POINT fr`
 
-Pour tout renseignement, inscriptions, merci d'écrire par email à l'adresse indiquée ci-dessus. Merci.
+Pour tout renseignement, inscriptions, merci d'écrire par email à l'adresse indiquée ci-dessus.
+
+Pour une inscription, merci d'indiquer :
+
+- vos nom et prénom,
+- vos coordonnées téléphoniques pour que l'on puisse vous rappeler,
+- ainsi que le ou les créneaux sur lesquels vous souhaiteriez participer (le créneau sera attribué en fonction des places disponibles restantes).
