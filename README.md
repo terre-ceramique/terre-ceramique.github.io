@@ -53,6 +53,6 @@ Pour tout renseignement, inscriptions, merci d'écrire par email à l'adresse in
 
 Pour une inscription, merci d'indiquer :
 
-- vos nom et prénom,
-- vos coordonnées téléphoniques pour que l'on puisse vous rappeler,
-- ainsi que le ou les créneaux sur lesquels vous souhaiteriez participer (le créneau sera attribué en fonction des places disponibles restantes).
+- 🧑 vos nom et prénom,
+- ☎️ vos coordonnées téléphoniques pour que l'on puisse vous rappeler,
+- 🕛 ainsi que le ou les créneaux sur lesquels vous souhaiteriez participer (le créneau sera attribué en fonction des places disponibles restantes).
