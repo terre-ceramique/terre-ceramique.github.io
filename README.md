@@ -1,4 +1,4 @@
-<img width="100%" alt="banner_very_low" src="https://github.com/user-attachments/assets/690fb625-f022-4dd4-a599-c3aec5cf7e1b" />
+<img width="100%" alt="Mains en train de façonner l'argile sur le tour de potier" src="https://github.com/user-attachments/assets/690fb625-f022-4dd4-a599-c3aec5cf7e1b" />
 
 - [L'association](#lassociation)
 - [Actualités](#actualités-)
