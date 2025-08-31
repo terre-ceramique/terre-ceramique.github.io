@@ -59,6 +59,12 @@ Voici la liste des créneaux disponibles :
 - Jeudi après-midi 13h-17h
 - Samedi après-midi 13h-17h
 
+||Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|9h-13h|||x|||x|x|
+|13h-17h|||x||||x|
+|17h-21h||x|x|x|x|x|x|
+
 En septembre, un créneau pour l'année est attribué à chaque membre. 5 places sont disponibles par créneau, se renseigner auprès de l'association pour connaître les disponibilités.
 
 ---
