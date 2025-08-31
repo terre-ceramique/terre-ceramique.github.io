@@ -10,13 +10,13 @@
 
 ---
 
-⚱️ L'association a pour objet de promouvoir le **travail de l’argile** sous toutes ses formes, de **permettre l’expression artistique**, des enfants et des adultes, dans ce domaine et de **développer les échanges de compétences** entre les différents membres de l’association. 
+L'association a pour objet de promouvoir le **travail de l’argile** sous toutes ses formes, de **permettre l’expression artistique**, des enfants et des adultes, dans ce domaine et de **développer les échanges de compétences** entre les différents membres de l’association. 
 
-🏠 L'association est hébergée par une association de professionels de la céramique, Atelier Libre, établie à Croissant Bouillet, 69 rue Yves Trichard à Concarneau.
+L'association est **hébergée** par une association de professionels de la céramique, **Atelier Libre**, établie à Croissant Bouillet, 69 rue Yves Trichard à Concarneau.
 
-🧩 L'éventail des pratiques est large, tournage, modelage, sculpture, cuissons (bois, gaz, électrique, raku)... Les niveaux sont variés, de débutant.e.s à potier.ère.s expérimenté.e.s.
+L'éventail des pratiques est large, **tournage, modelage, sculpture, cuissons** (bois, gaz, électrique, raku)... Les niveaux sont variés, de débutant.e.s à potier.ère.s expérimenté.e.s.
 
-⚙️ Outre l'accès aux créneaux de pratique, et en contrepartie d'une adhésion modique, il est demandé aux adhérent.e.s de s'investir dans l'association comme ils et elles le peuvent, à divers niveaux :
+Outre l'accès aux créneaux de pratique, et en contrepartie d'une adhésion modique, **il est demandé aux adhérent.e.s de s'investir dans l'association** comme ils et elles le peuvent, à divers niveaux :
 
 - aide à l'organisation de l'expo-vente annuelle
 - aide sur des chantiers ponctuels d'aménagement du lieu
@@ -28,11 +28,11 @@
 - **6 septembre** : l'association sera présente aux Forums des Association de Concarneau et de Trégunc
 - **22 septembre** : reprise des ateliers
 
-## 🖼️ L'expo-vente annuelle
+## L'expo-vente annuelle
 
 Une exposition-vente anuelle est organisée par les membres de l'association, permettant de financer une partie des dépenses de l'association. **Cette année, l'exposition a lieu du lundi 1er septembre au dimanche 7 septembre à la chapelle du Cabellou à Concarneau.**
 
-## 💶 Adhésion et créneaux horaires
+## Adhésion et créneaux horaires
 
 Voici la liste des créneaux disponibles :
 
@@ -55,6 +55,6 @@ Pour tout renseignement, inscriptions, merci d'écrire par email à l'adresse in
 
 Pour une inscription, merci d'indiquer :
 
-- 🧑 vos nom et prénom,
-- ☎️ vos coordonnées téléphoniques pour que l'on puisse vous rappeler,
-- 🕛 ainsi que le ou les créneaux sur lesquels vous souhaiteriez participer (le créneau sera attribué en fonction des places disponibles restantes).
+- vos noms et prénoms,
+- vos coordonnées téléphoniques pour que l'on puisse vous rappeler,
+- ainsi que le ou les créneaux sur lesquels vous souhaiteriez participer (le créneau sera attribué en fonction des places disponibles restantes).
