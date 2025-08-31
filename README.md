@@ -2,8 +2,8 @@
 
 - [L'association](#-lassociation)
 - [Actualités](#-actualités)
-- [L'expo-vente annuelle](#-lexpo-vente-annuelle)
-- [Adhésion et créneaux horaires](#-adhésion-et-créneaux-horaires)
+- [L'expo-vente annuelle](#lexpo-vente-annuelle)
+- [Adhésion et créneaux horaires](#adhésion-et-créneaux-horaires)
 - [Contact](#-contact)
 
 ---
