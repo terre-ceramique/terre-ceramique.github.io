@@ -3,12 +3,20 @@
 - [L'association](#lassociation)
 - [Actualités](#actualités)
 - [L'expo-vente annuelle](#lexpo-vente-annuelle)
-- [Les créneaux](#les-créneaux)
+- [Adhésion et créneaux horaires](#adhésion-et-créneaux-horaires)
 - [Contact](#contact)
 
 ## L'association
 
-L'association a pour objet de promouvoir le **travail de l’argile** sous toutes ses formes, de **permettre l’expression artistique**, des enfants et des adultes, dans ce domaine et de **développer les échanges de compétences** entre les différents membres de l’association. L'association est hébergée par une association de professionels de la céramique, Atelier Libre, établie à Croissant Bouillet, 69 rue Yves Trichard à Concarneau.
+L'association a pour objet de promouvoir le **travail de l’argile** sous toutes ses formes, de **permettre l’expression artistique**, des enfants et des adultes, dans ce domaine et de **développer les échanges de compétences** entre les différents membres de l’association. 
+
+L'association est hébergée par une association de professionels de la céramique, Atelier Libre, établie à Croissant Bouillet, 69 rue Yves Trichard à Concarneau.
+
+L'éventail des pratiques est large, tournage, modelage, sculpture, cuissons (bois, gaz, électrique, raku)... Les niveaux sont variés, de débutant.e.s à potier.ère.s expérimenté.e.s. Outre l'accès aux créneaux de pratique, et en contrepartie d'une adhésion modique, il est demandé aux adhérent.e.s de s'investir dans l'association comme ils et elles le peuvent, à divers niveaux :
+
+- aide à l'organisation de l'expo-vente annuelle
+- aide sur des chantiers ponctuels d'aménagement du lieu
+- soutien aux bénévoles qui organisent des évènements, des cuissons collectives
 
 ## Actualités
 
@@ -20,7 +28,7 @@ L'association a pour objet de promouvoir le **travail de l’argile** sous toute
 
 Une exposition-vente anuelle est organisée par les membres de l'association, permettant de financer une partie des dépenses de l'association. **Cette année, l'exposition a lieu du lundi 1er septembre au dimanche 7 septembre à la chapelle du Cabellou à Concarneau.**
 
-## Les créneaux
+## Adhésion et créneaux horaires
 
 Voici la liste des créneaux disponibles :
 
