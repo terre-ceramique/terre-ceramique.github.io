@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body, #container, code {
+  background-image: none; 
+  background-color: #ffffff;
+  
+  /*color: #000000;*/
+}
+
+a {
+  color: #005580;
+}
+a:hover {
+  color: #004466;
+}
